@@ -1,0 +1,6 @@
+imports:
+  - base
+
+Predictor: XRD.MLP
+
+experiment: MLP
